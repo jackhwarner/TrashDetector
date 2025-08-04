@@ -12,10 +12,11 @@ The model is a ResNet-18 trained to distinguish between: cardboard, paper, plast
 
 To run the project, follow these steps:
 1. Install these required libraries: numpy, Pillow, onnx, jetson-inference, jetson-utils
-2. cd into ~/jetson-inference/python/training/classification
-3. Run `python3 trash_predictor.py`
-4. Put a piece of trash underneath the camera and click enter to classify
-5. Then throw the trash away in the right bin
+2. Download the full folder from Github
+3. cd into ~/jetson-inference/python/training/classification through the terminal
+4. Run the command `python3 trash_predictor.py`
+5. Put a piece of trash in front of the camera and click enter to classify
+6. Then throw the trash away in the right bin
 
 [View a video explanation here](https://drive.google.com/file/d/1UHNK6GOIFCyZuPFm-b7mDBqEtxLwtmn8/view?usp=sharing)
 
