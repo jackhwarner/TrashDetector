@@ -18,3 +18,4 @@ To run the project, follow these steps:
 5. Then throw the trash away in the right bin
 
 [View a video explanation here](https://drive.google.com/file/d/1UHNK6GOIFCyZuPFm-b7mDBqEtxLwtmn8/view?usp=sharing)
+https://github.com/user-attachments/assets/1e76b9f4-0711-4436-8b32-68788e81e0c1
