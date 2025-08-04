@@ -2,7 +2,7 @@
 
 This project uses a custom-trained Trashnet model to classify waste from a live camera. Based on the prediction, it recommends the correct recycling bin: landfill, paper/cardboard, or bottles/cans. The system is designed for interactive use and promotes smarter, sustainable waste sorting.
 
-![Screenshot of what running and using the project looks like](https://drive.google.com/file/d/11NLSPCUO4fl_E7EiUKdaKpSlYoP7BZYa/view?usp=sharing)
+![Screenshot of what running and using the project looks like](https://github.com/user-attachments/assets/99fd6f1b-dc85-4429-93c4-88cde33b9805)
 
 ## The Algorithm
 
