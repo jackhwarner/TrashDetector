@@ -18,3 +18,5 @@ To run the project, follow these steps:
 5. Then throw the trash away in the right bin
 
 [View a video explanation here](https://drive.google.com/file/d/1UHNK6GOIFCyZuPFm-b7mDBqEtxLwtmn8/view?usp=sharing)
+
+Project Planning Worksheet: https://docs.google.com/document/d/1-KWWDZvlOJ-PShcazjnAAIYUU7WSLFuGDacdYBVGN2M/edit?usp=sharing
